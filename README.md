@@ -47,6 +47,6 @@ This work demonstrates how foundation models can complement traditional food sec
 
 ## Author
 
-Mary Muthee  
+Mary Muthee 
 Copernicus Master in Digital Earth  
 
