@@ -1,7 +1,7 @@
 # Food Insecurity Assessment in Kenya Using SatCLIP Embeddings
 
 ## Overview
-![Current elephant distribution](Before_TrueColor_Image.png)
+![Current elephant distribution](satclip.png)
 This project applies a geospatial foundation model, SatCLIP, to examine patterns of food insecurity in Kenya using spatial embeddings derived from satellite observations. The analysis integrates SatCLIP’s location encoder with the Integrated Food Security Phase Classification (IPC) dataset to explore how learned geospatial representations relate to acute food insecurity conditions across counties and sub-counties.
 
 ## SatCLIP Foundation Model
